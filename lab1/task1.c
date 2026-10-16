@@ -24,7 +24,6 @@ int main() {
 }
 void prac1()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
 	puts("Нажмите Enter для продолжения...");
 
 	getchar();
@@ -34,7 +33,6 @@ void prac1()
 }
 void prac2()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
 	puts("Моя программа,");
 
 	getchar();
@@ -49,7 +47,6 @@ void prac2()
 }
 void prac3()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
 	puts("Дата рождения");
 
 	getchar();
@@ -67,7 +64,6 @@ void prac4()
 
 void name()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
 	puts("Моя программа,");
 	getchar();
 	puts("*******************************************");
@@ -88,7 +84,6 @@ void date()
 }
 void dz1()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
 	puts("домик: ");
 
 	getchar();
